@@ -11,7 +11,7 @@ This repository is created for people (students or self-taught) that want to kno
 ## Topics
 Here is an index of the topics covered (inspired by https://roadmap.sh/python/):
 ### Basic syntax
-- The 5 Wh questions on python
+- The Wh questions on python
 - Variables and data types
 - Lists, Dictionaries
 - Casting
@@ -39,3 +39,4 @@ Here is an index of the topics covered (inspired by https://roadmap.sh/python/):
 ## Links
 
 ## Installation
+For the installation I recomand this tutorial, made from !(ProgrammingKnowledge)[https://www.youtube.com/@ProgrammingKnowledge] , on youtube: https://www.youtube.com/watch?v=dNFgRUD2w68
