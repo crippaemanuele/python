@@ -1,4 +1,5 @@
 # Python Course
+
 ## _From the basics to the Object Oriented Programming and more, with examples_
 
 All the exercises will be available on: 
@@ -8,9 +9,12 @@ And all the code is written using:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 This repository is created for people (students or self-taught) that want to know the basics of programming in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54).
+
 ## Topics
 Here is an index of the topics covered (inspired by https://roadmap.sh/python/):
+
 ### Basic syntax
+
 - The Wh questions on python
 - Variables and data types
 - Lists, Dictionaries
@@ -20,6 +24,7 @@ Here is an index of the topics covered (inspired by https://roadmap.sh/python/):
 - Recursion
 
 ### Object Oriented programming
+
 - What is an object?
 - Object vs Instance
 - Classes
@@ -27,6 +32,7 @@ Here is an index of the topics covered (inspired by https://roadmap.sh/python/):
 - Methods
 
 ### Data structures and algorithms
+
 - Linked lists
 - Heaps, Stacks, Queues
 - Trees (and Binary-trees)
@@ -39,4 +45,5 @@ Here is an index of the topics covered (inspired by https://roadmap.sh/python/):
 ## Links
 
 ## Installation
-For the installation I recomand this tutorial, made from !(ProgrammingKnowledge)[https://www.youtube.com/@ProgrammingKnowledge] , on youtube: https://www.youtube.com/watch?v=dNFgRUD2w68
+
+For the installation I recomand this tutorial, made from ![ProgrammingKnowledge](https://www.youtube.com/@ProgrammingKnowledge) , on youtube: <https://www.youtube.com/watch?v=dNFgRUD2w68>
