@@ -61,5 +61,5 @@ x=1
 ## Links
 
 ## Installation
-For the installation i recommand this tutorial, made from [ProgrammingKnowledge](https://www.youtube.com/@ProgrammingKnowledge), [link to the video](https://www.youtube.com/watch?v=ZcP0Du4KFSU)
+For the installation I recommand this tutorial, made from [ProgrammingKnowledge](https://www.youtube.com/@ProgrammingKnowledge), [link to the video](https://www.youtube.com/watch?v=ZcP0Du4KFSU)
 
