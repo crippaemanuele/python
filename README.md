@@ -45,5 +45,3 @@ Here is an index of the topics covered (inspired by https://roadmap.sh/python/):
 ## Links
 
 ## Installation
-
-For the installation I recomand this tutorial, made from !ProgrammingKnowledge(https://www.youtube.com/@ProgrammingKnowledge) , on youtube: <https://www.youtube.com/watch?v=dNFgRUD2w68>
