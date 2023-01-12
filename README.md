@@ -1,4 +1,6 @@
-<img src="assets/python.gif" alt="Python Logo" width="75" height="75">    
+<p align="center">
+	<img src="assets/python.gif" alt="Python Logo" width="75" height="75">  
+</p>
 
 # Python Course  
 ## _From the basics to the Object Oriented Programming and more, with examples_
