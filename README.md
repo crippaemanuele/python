@@ -1,14 +1,12 @@
-# Python Course
-
-![Python Logo](assets/python.gif)  
+<img src="assets/python.gif" alt="Python Logo" width="75" height="75">    
 
 # Python Course  
 ## _From the basics to the Object Oriented Programming and more, with examples_
 
-All the exercises will be available on:
+All the exercises will be available on:  
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
-And all the code is written using:
+And all the code is written using:  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 This repository is created for people (students or self-taught) that want to know the basics of programming in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54).
@@ -28,11 +26,10 @@ Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>
 	**What is a variable?** Let's think it as a drawer (_our variable_), wich has a label on it (_the variable name_), in this drawer you can put "things" (_our information_) and unless you remove the things from the drawer they will stay in it.
 	Getting it real a **variable** is a space area in our computer where we can store information useful to our program.
 	In Python the syntax to create a variable is:
-	
-'''
-    x=1
-'''
-	
+
+```python
+x=1
+```
 
 - Lists, Dictionaries
 - Casting
