@@ -4,7 +4,7 @@
 
 </p>
 
-# Python Course
+# Python Course 🐍
 
 ## _From the basics to the Object Oriented Programming and more, with examples_
 
