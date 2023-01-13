@@ -156,6 +156,8 @@ Imagine having a division between to float values and you want only to have the 
 
 ## Links
 
+## Credits
+
 The logo has been created by [EscuelaDevRock](https://giphy.com/devrock)
 
 ## Installation
