@@ -80,7 +80,9 @@ Using a variable we can store only 1 information at time, there are some structu
 
 ```python
 list1=["item1", "item2", "item3"] #string list
-list_int=[1,2,3,4,5,6] #int list
+intList=[1,2,3,4,5,6] #int list
+boolList=[True, False, False] #bool list
+mixed=["item",1,True] #lists can contain also mixed types
 ```  
 
 > As you can se it's like creating a variable but we have to use the
@@ -94,7 +96,14 @@ A list has these 3 characteristics:
 2. Changeable  
  ↳ This means that we can **add**, **change**, **remove** items from the list after creating it
 3. Duplicates  
- ↳ Since lists have indexes we can have duplicated values
+ ↳ Since lists have indexes we can have duplicated values  
+In order to access items of a list we can use this syntax:
+
+```python
+list1[1] #access to the element in position 1 (2)
+```
+
+> Note that to count positions of the items we start from **0**, so the first item of the _intList_ will be ```intList[0]=>1```
 
 #### Casting
 
