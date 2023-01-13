@@ -21,7 +21,7 @@ Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>
 
 - Wh questions on python
 	- **Why?** Because of its flexybility python can be used in every field you may need: from the simplest programs to data science and machine learning.
-	- **What?** Python is a programming language born in the '90, but became populare only later. It's an **interpreted** language, which means that an intepreter (embedded with python installation packages) will "read" line by line the code and execute it, it's very easy to understand and use and can be the basis to learn any other programming language.
+	- **What?** Python is a programming language born in the '90s, but became popular only later. It's an **interpreted** language, which means that an intepreter (embedded with python installation packages) will "read" line by line the code and execute it, it's very easy to understand and use and can be the basis to learn any other programming language.
 	- **Where?** Python programs can be developed from the embedded IDE (Integrated Development Enviroment) which is IDLE or, as in this course, you can use [Visual Studio Code](https://code.visualstudio.com/).
 	- **How?** By the end of this course you will have an understanding of what programming means and some little project built with step-by-step guides.
 - Variables and data types  
