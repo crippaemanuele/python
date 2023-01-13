@@ -29,12 +29,35 @@ Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>
 	Making it real a **variable** is a space area in our computer where we can store information useful to our program.  
 	In Python the syntax to create a variable is:
 
-```python
-x=1
-```
+	```python
+	x=1
+	```
+
+	Our variables can be defined as some data-types. We can divide the data-types in two big categories:  
+	**Primitive.** These data-type are the fundamental ones they are **integer** (which defines all the integer numbers), **float** (which defines floating point numbers), **complex** (which defines complex numbers, with j as the imaginary part), **boolean** (which defines 0 [false] or 1 [true] values used for logical and boolean operations), **str** (which defines all the text types).  
+	Here a list of how to define every data-type seen above:  
+
+	```python
+	int x=255 #integer
+	float x=1.00 #floating point
+	complex w=5+3j #complex
+	bool x=true #boolean
+	str x='this is a string' #text (or string)
+	```
 
 - Lists, Dictionaries
+
 - Casting
+	A fatal operation in programming is **casting**, what does that mean? It means to force a data-type into another one, let me explain...
+	Imagine having a division between to float values and you want only to have the integer value of the quotient, here is how you do that!
+	```python
+	float a=15
+	float b=20
+	int division=0
+	division=(int)a/b #(int) is the casting, without it it would have returned an error 
+	```  
+	Note that you **cannot** cast a data-type into any other one, for some data-types you need some **functions** (_like parsing_).  
+
 - Conditional
 - Functions
 - Recursion
