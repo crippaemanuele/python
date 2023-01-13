@@ -89,11 +89,11 @@ list_int=[1,2,3,4,5,6] #int list
 
 A list has these 3 characteristics:
 
-1. Ordered
+1. Ordered  
  ↳ Lists are ordered, that means that if you add an element it will be added at the end of our list
-2. Changeable
+2. Changeable  
  ↳ This means that we can **add**, **change**, **remove** items from the list after creating it
-3. Duplicates
+3. Duplicates  
  ↳ Since lists have indexes we can have duplicated values
 
 #### Casting
