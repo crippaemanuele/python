@@ -156,6 +156,8 @@ Imagine having a division between to float values and you want only to have the 
 
 ## Links
 
+The logo has been created by [EscuelaDevRock](https://giphy.com/devrock)
+
 ## Installation
 
 For the installation I recommand this tutorial, made from [ProgrammingKnowledge](https://www.youtube.com/@ProgrammingKnowledge), [link to the video](https://www.youtube.com/watch?v=ZcP0Du4KFSU)
