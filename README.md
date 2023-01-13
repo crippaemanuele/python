@@ -79,15 +79,22 @@ Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>
 Using a variable we can store only 1 information at time, there are some structures in Python that allows us to store multiple information, these strcuctures are called **lists**, here is the syntax to create one
 
 ```python
-    list1=["item1", "item2", "item3"] #string list
-    list_int=[1,2,3,4,5,6] #int list
+list1=["item1", "item2", "item3"] #string list
+list_int=[1,2,3,4,5,6] #int list
 ```  
 
 > As you can se it's like creating a variable but we have to use the
-> square brackets **[]** to define the elements separated from the comma
+> square brackets **[]** to define the elements separated them with the comma
 > **,**  
 
 A list has these 3 characteristics:
+
+1. Ordered
+ ↳ Lists are ordered, that means that if you add an element it will be added at the end of our list
+2. Changeable
+ ↳ This means that we can **add**, **change**, **remove** items from the list after creating it
+3. Duplicates
+ ↳ Since lists have indexes we can have duplicated values
 
 #### Casting
 
