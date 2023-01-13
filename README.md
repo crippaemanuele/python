@@ -26,7 +26,7 @@ Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>
 
 ### Basics
 
-- Wh questions on python
+#### Wh questions on python
 
 - **Why?** Because of its flexybility python can be used in every field you may need: from the simplest programs to data science and machine learning.
 
@@ -36,7 +36,7 @@ Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>
 
 - **How?** By the end of this course you will have an understanding of what programming means and some little project built with step-by-step guides.
 
-- Variables and data types
+#### Variables and data types
 
  **What is a variable?** Let's think it as a drawer (_our variable_), which has a label on it (_the variable name_), in this drawer you can put "things" (_our information_) and unless you remove the things from the drawer they will stay in it.
 
@@ -74,13 +74,14 @@ Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>
 > use variables without assigning them a specific data-type.  Although
 > is necessary in some cases.
 
-- Lists, Dictionaries
+#### Lists, Dictionaries
+
 Using a variable we can store only 1 information at time, there are some structures in Python that allows us to store multiple information, these strcuctures are called **lists**, here is the syntax to create one
 
-    ```python
+```python
     list1=["item1", "item2", "item3"] #string list
     list_int=[1,2,3,4,5,6] #int list
-    ```  
+```  
 
 > As you can se it's like creating a variable but we have to use the
 > square brackets **[]** to define the elements separated from the comma
@@ -88,7 +89,8 @@ Using a variable we can store only 1 information at time, there are some structu
 
 A list has these 3 characteristics:
 
-- Casting
+#### Casting
+
 A fatal operation in programming is **casting**, what does that mean? It means to force a data-type into another one, let me explain...
 Imagine having a division between to float values and you want only to have the integer value of the quotient, here is how you do that!
 
@@ -102,35 +104,35 @@ Imagine having a division between to float values and you want only to have the 
 > Note that you **cannot** cast a data-type into any other one, for some
 > data-types you need some **functions** (_like parsing_).
 
-- Conditional
+#### Conditional
 
-- Strings
+#### Strings
 
-- Functions
+#### Functions
 
-- Recursion
+#### Recursion
 
 ### Object Oriented programming
 
-- What is an object?
+#### What is an object?
 
-- Object vs Instance
+#### Object vs Instance
 
-- Classes
+#### Classes
 
-- Inheritance
+#### Inheritance
 
-- Methods
+#### Methods
 
 ### Data structures and algorithms
 
-- Linked lists
+#### Linked lists
 
-- Heaps, Stacks, Queues
+#### Heaps, Stacks, Queues
 
-- Trees (and Binary-trees)
+#### Trees (and Binary-trees)
 
-- Sorting algorithms (Bubble-sort, merge-sort, insertion-sort)
+#### Sorting algorithms (Bubble-sort, merge-sort, insertion-sort)
 
 ### Graphic User Interface
 
