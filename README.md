@@ -120,7 +120,57 @@ Imagine having a division between to float values and you want only to have the 
 > Note that you **cannot** cast a data-type into any other one, for some
 > data-types you need some **functions** (_like parsing_).
 
-#### Conditional
+#### If, For & While  
+**What if I want to make my program go in different paths based on some event?**   
+To do so we use **IF** conditions, if conditions are mathematical and logical expressions that return only two possible values:
+
+ 1. True (1)
+ 2. False (0)
+
+Let's say we want to check what is the bigger number between 10 and 9, here  is the syntax:
+
+```python
+a=9
+b=10
+if(a>b):
+  print("9 is grater than 10")
+else
+  print("10 is grater than 9")
+```
+
+> Note that in this case the outcome of the espression is "false" so the only code executed will be the one after the "else"
+
+Here is a list of the operators we can use in the if clause:
+| Mathematical | Logical |
+|--------------|---------|
+| `<` _(less than)_            | `and` _(returns true only if both are true)_ |
+| `>` _(grater than)_        | `or` _(returns true if at least one is true)_ |
+| `<=` _(less or euqal to)_        | `not` _(negates the boolean expression, if true becomes false)_ |
+| `>=`  _(grater or equal to)_       |  |
+| `==` _(equal to)_       |  |
+| `!=` _(not equal to)_       |  |  
+
+**If I have to repeat a small (or big) portion of code a certain numbers of times?**  
+In order to do that we can use **FOR** loops that allows us to repeat portions of code a specific amount of times by specifying an index (i), here is the syntax:
+
+```python
+for i in range(100): #this loop prints the first 100 numbers
+  print(i)
+```  
+You can also specify a range of values, like this:
+
+```python
+for i in range(50,100): #this loop prints the numbers from 50 to 100 
+  print(i)
+```  
+**Lastly, if I don't know how many times i have to repeat my loop?**  
+Possibly you will have a condition that will stop your loop, loops structured this way are called **WHILE** loops, here is thier syntax:  
+
+```python
+while(x>10):
+  x+=1
+  print(x)
+```
 
 #### Strings
 
