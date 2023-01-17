@@ -5,6 +5,9 @@
 </p>
 
 # Python Course 🐍
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/crippaemanuele/python/blob/master/README.md)
+[![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/crippaemanuele/python/blob/master/README.it.md)
+[![es](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/crippaemanuele/python/blob/master/README.es.md)
 
 ## _From the basics to the Object Oriented Programming and more, with examples_
 
