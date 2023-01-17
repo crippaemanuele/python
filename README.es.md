@@ -4,13 +4,14 @@
 
 </p>
 
-# Python Course 🐍
+# Curso de Python 🐍
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/crippaemanuele/python/blob/master/README.md)
 [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/crippaemanuele/python/blob/master/README.it.md)
 [![es](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/crippaemanuele/python/blob/master/README.es.md)
 [![de](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/crippaemanuele/python/blob/master/README.de.md)
+[![fr](https://img.shields.io/badge/lang-fr-purple.svg)](https://github.com/crippaemanuele/python/blob/master/README.fr.md)
 
-## _From the basics to the Object Oriented Programming and more, with examples_
+## _Desde lo básico hasta la Programación Orientada a Objetos y más, con ejemplos_
 
 All the exercises will be available on:
 
