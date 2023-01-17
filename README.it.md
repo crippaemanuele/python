@@ -3,6 +3,9 @@
 </p>
 
 # Corso Python  
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/crippaemanuele/python/blob/master/README.md)
+[![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/crippaemanuele/python/blob/master/README.it.md)
+[![es](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/crippaemanuele/python/blob/master/README.es.md)
 
 ## _Dalle basi della programmazione alla programmaizone ad oggetti, con esempi._
 
