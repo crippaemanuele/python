@@ -8,7 +8,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/crippaemanuele/python/blob/master/README.md)
 [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/crippaemanuele/python/blob/master/README.it.md)
 [![es](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/crippaemanuele/python/blob/master/README.es.md)
-[![de](https://img.shields.io/badge/lang-de-green.svg)](https://github.com/crippaemanuele/python/blob/master/README.de.md)
+[![de](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/crippaemanuele/python/blob/master/README.de.md)
 
 ## _From the basics to the Object Oriented Programming and more, with examples_
 
