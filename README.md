@@ -121,7 +121,8 @@ Imagine having a division between to float values and you want only to have the 
 > data-types you need some **functions** (_like parsing_).
 
 #### If, For & While  
-**What if I want to make my program go in different paths based on some event?**   
+
+**What if I want to make my program go in different paths based on some event?**
 To do so we use **IF** conditions, if conditions are mathematical and logical expressions that return only two possible values:
 
  1. True (1)
@@ -157,12 +158,14 @@ In order to do that we can use **FOR** loops that allows us to repeat portions o
 for i in range(100): #this loop prints the first 100 numbers
   print(i)
 ```  
+
 You can also specify a range of values, like this:
 
 ```python
 for i in range(50,100): #this loop prints the numbers from 50 to 100 
   print(i)
 ```  
+
 **Lastly, if I don't know how many times i have to repeat my loop?**  
 Possibly you will have a condition that will stop your loop, loops structured this way are called **WHILE** loops, here is thier syntax:  
 
