@@ -5,49 +5,50 @@
 </p>
 
 # Python Course 🐍
+
 [![en](https://img.shields.io/badge/lang-en-white.svg)](https://github.com/crippaemanuele/python/blob/master/README.md)
 [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/crippaemanuele/python/blob/master/README.it.md)
 [![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/crippaemanuele/python/blob/master/README.es.md)
 [![de](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/crippaemanuele/python/blob/master/README.de.md)
 [![fr](https://img.shields.io/badge/lang-fr-purple.svg)](https://github.com/crippaemanuele/python/blob/master/README.fr.md)
 
-## _From the basics to the Object Oriented Programming and more, with examples_
+## _Des bases à la programmation orientée objet et plus encore, avec des exemples_
 
-All the exercises will be available on:
+Tous les exercices seront disponibles sur :
 
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-And all the code is written using:
+Et tout le code est écrit en utilisant :
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-This repository is created for people (students or self-taught) that want to know the basics of programming in ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue).
+Ce référentiel est créé pour les personnes (étudiants ou autodidactes) qui veulent connaître les bases de la programmation en ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue).
 
-## Topics
+## Sujets
 
-Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>):
+Voici un index des sujets abordés (inspiré de <https://roadmap.sh/python/>) :
 
-### Basics
+### Bases
 
-#### Wh questions on python
+#### Questions sur python
 
-- **Why?** Because of its flexybility python can be used in every field you may need: from the simplest programs to data science and machine learning.
+- **Pourquoi?** Grâce à sa flexibilité, python peut être utilisé dans tous les domaines dont vous pouvez avoir besoin : des programmes les plus simples à la science des données et à l'apprentissage automatique.
 
-- **What?** Python is a programming language born in the '90s, but became popular only later. It's an **interpreted** language, which means that an intepreter (embedded with python installation packages) will "read" line by line the code and execute it, it's very easy to understand and use and can be the basis to learn any other programming language.
+- Quoi ? Python est un langage de programmation né dans les années 90, mais qui n'est devenu populaire que plus tard. C'est un langage **interprété**, ce qui signifie qu'un interpréteur (intégré aux paquets d'installation de Python) "lira" ligne par ligne le code et l'exécutera. Il est très facile à comprendre et à utiliser et peut servir de base à l'apprentissage de tout autre langage de programmation.
 
-- **Where?** Python programs can be developed from the embedded IDE (Integrated Development Enviroment) which is IDLE or, as in this course, you can use [Visual Studio Code](https://code.visualstudio.com/).
+- Les programmes Python peuvent être développés à partir de l'IDE (Integrated Development Enviroment) intégré, IDLE, ou, comme dans ce cours, vous pouvez utiliser [Visual Studio Code] (<https://code.visualstudio.com/>).
 
-- **How?** By the end of this course you will have an understanding of what programming means and some little project built with step-by-step guides.
+- A la fin de ce cours, vous aurez compris ce que signifie la programmation et vous aurez construit quelques petits projets avec des guides étape par étape.
 
-#### Variables and data types
+#### Variables et types de données
 
- **What is a variable?** Let's think it as a drawer (_our variable_), which has a label on it (_the variable name_), in this drawer you can put "things" (_our information_) and unless you remove the things from the drawer they will stay in it.
+ **Qu'est-ce qu'une variable ? Imaginons qu'il s'agit d'un tiroir (_notre variable_), qui porte une étiquette (_le nom de la variable_), dans ce tiroir vous pouvez mettre des "choses" (_nos informations_) et à moins que vous ne retiriez les choses du tiroir, elles y resteront.
 
- Making it real a **variable** is a space area in our computer where we can store information useful to our program.
+ Pour faire vrai, une **variable** est une zone d'espace dans notre ordinateur où nous pouvons stocker des informations utiles à notre programme.
 
- In Python the syntax to create a variable is:
+ En Python, la syntaxe pour créer une variable est la suivante :
 
  ```python
 
@@ -55,65 +56,66 @@ Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>
 
  ```
 
- Our variables can be defined as some data-types. We can divide the data-types in two big categories:
+ Nos variables peuvent être définies comme des types de données. Nous pouvons diviser les types de données en deux grandes catégories :
 
- **Primitive.** These data-type are the fundamental ones they are **integer** (which defines all the integer numbers), **float** (which defines floating point numbers), **complex** (which defines complex numbers, with j as the imaginary part), **boolean** (which defines 0 [false] or 1 [true] values used for logical and boolean operations), **str** (which defines all the text types).
+ **Primitive.** Ces types de données sont les plus fondamentaux : **integer** (qui définit tous les nombres entiers), **float** (qui définit les nombres à virgule flottante), **complex** (qui définit les nombres complexes, avec j comme partie imaginaire), **boolean** (qui définit les valeurs 0 [faux] ou 1 [vrai] utilisées pour les opérations logiques et booléennes), **str** (qui définit tous les types de texte).
 
- Here a list of how to define every data-type seen above:
+ Voici une liste de la façon de définir chaque type de données vu ci-dessus :
 
  ```python
 
- x=int(255)  #integer
+ x=int(255) #intégral
 
- x=float(1.00)  #floating point
+ x=float(1.00) #point flottant
 
- w=complex(5+3j)  #complex
+ w=complexe(5+3j) #complexe
 
- x=bool(true) #boolean
+ x=bool(true) #booléen
 
- x=str('this is a string')  #text (or string)
+ x=str('ceci est une chaîne') #texte (ou chaîne)
 
  ```
 
-> Note that this **is not** a necessary operation, in fact Python can
-> use variables without assigning them a specific data-type.  Although
-> is necessary in some cases.
+> Notez que ce n'est pas une opération nécessaire, en fait Python peut utiliser des variables sans leur attribuer de valeur.
+> Python peut utiliser des variables sans leur attribuer un type de données spécifique.  Bien que
+> est nécessaire dans certains cas.
 
-#### Lists, Dictionaries
+#### Listes, dictionnaires
 
-Using a variable we can store only 1 information at time, there are some structures in Python that allows us to store multiple information, these strcuctures are called **lists**, here is the syntax to create one
+En utilisant une variable, nous ne pouvons stocker qu'une information à la fois, il existe des structures en Python qui nous permettent de stocker plusieurs informations, ces structures sont appelées **listes**, voici la syntaxe pour en créer une
 
 ```python
-list1=["item1", "item2", "item3"] #string list
-intList=[1,2,3,4,5,6] #int list
-boolList=[True, False, False] #bool list
-mixed=["item",1,True] #lists can contain also mixed types
+list1=["item1", "item2", "item3"] #liste de chaînes de caractères
+intList=[1,2,3,4,5,6] #liste d'indices
+boolList=[True, False, False] #liste de bools
+mixed=["item",1,True] #les listes peuvent aussi contenir des types mixtes
 ```  
 
-> As you can se it's like creating a variable but we have to use the
-> square brackets **[]** to define the elements separated them with the comma
+> Comme vous pouvez le voir, c'est comme créer une variable mais nous devons utiliser les
+> crochets **[]** pour définir les éléments en les séparant par une virgule.
 > **,**  
 
-A list has these 3 characteristics:
+Une liste a ces 3 caractéristiques :
 
-1. Ordered  
- ↳ Lists are ordered, that means that if you add an element it will be added at the end of our list
-2. Changeable  
- ↳ This means that we can **add**, **change**, **remove** items from the list after creating it
-3. Duplicates  
- ↳ Since lists have indexes we can have duplicated values  
-In order to access items of a list we can use this syntax:
+1. Ordonnée  
+ ↳ Les listes sont ordonnées, ce qui signifie que si vous ajoutez un élément, il sera ajouté à la fin de notre liste.
+2. Modifiables  
+ ↳ Cela signifie que nous pouvons **ajouter**, **changer**, **supprimer** des éléments de la liste après l'avoir créée.
+3. Duplicata  
+ ↳ Puisque les listes ont des index, nous pouvons avoir des valeurs dupliquées.  
+Afin d'accéder aux éléments d'une liste, nous pouvons utiliser cette syntaxe :
 
 ```python
-list1[1] #access to the element in position 1 (2)
+list1[1] #accès à l'élément en position 1 (2)
+
 ```
 
-> Note that to count positions of the items we start from **0**, so the first item of the _intList_ will be ```intList[0]=>1```
+> Notez que pour compter les positions des éléments, nous partons de **0**, donc le premier élément de la _intList_ sera ``intList[0]=>1``
 
 #### Casting
 
-A fatal operation in programming is **casting**, what does that mean? It means to force a data-type into another one, let me explain...
-Imagine having a division between to float values and you want only to have the integer value of the quotient, here is how you do that!
+Une opération fatale en programmation est le **casting**, qu'est-ce que cela signifie ? Cela signifie forcer un type de données dans un autre, laissez-moi vous expliquer...
+Imaginez que vous avez une division entre deux valeurs flottantes et que vous voulez seulement avoir la valeur entière du quotient, voici comment faire !
 
  ```python
  x=float(250)
@@ -122,102 +124,12 @@ Imagine having a division between to float values and you want only to have the 
 
  ```
 
-> Note that you **cannot** cast a data-type into any other one, for some
-> data-types you need some **functions** (_like parsing_).
+> Notez que vous ne pouvez pas transformer un type de données en n'importe quel autre.
+> Pour certains types de données, vous avez besoin de **fonctions** (_comme l'analyse syntaxique_).
 
 #### If, For & While  
 
-**What if I want to make my program go in different paths based on some event?**
-To do so we use **IF** conditions, if conditions are mathematical and logical expressions that return only two possible values:
+**Que faire si je veux que mon programme suive des chemins différents en fonction d'un événement quelconque ?
+Pour ce faire, nous utilisons les conditions**IF**. Les conditions if sont des expressions mathématiques et logiques qui ne renvoient que deux valeurs possibles :
 
- 1. True (1)
- 2. False (0)
-
-Let's say we want to check what is the bigger number between 10 and 9, here  is the syntax:
-
-```python
-a=9
-b=10
-if(a>b):
-  print("9 is grater than 10")
-else
-  print("10 is grater than 9")
-```
-
-> Note that in this case the outcome of the espression is "false" so the only code executed will be the one after the "else"
-
-Here is a list of the operators we can use in the if clause:
-| Mathematical | Logical |
-|--------------|---------|
-| `<` _(less than)_            | `and` _(returns true only if both are true)_ |
-| `>` _(grater than)_        | `or` _(returns true if at least one is true)_ |
-| `<=` _(less or euqal to)_        | `not` _(negates the boolean expression, if true becomes false)_ |
-| `>=`  _(grater or equal to)_       |  |
-| `==` _(equal to)_       |  |
-| `!=` _(not equal to)_       |  |  
-
-**If I have to repeat a small (or big) portion of code a certain numbers of times?**  
-In order to do that we can use **FOR** loops that allows us to repeat portions of code a specific amount of times by specifying an index (i), here is the syntax:
-
-```python
-for i in range(100): #this loop prints the first 100 numbers
-  print(i)
-```  
-
-You can also specify a range of values, like this:
-
-```python
-for i in range(50,100): #this loop prints the numbers from 50 to 100 
-  print(i)
-```  
-
-**Lastly, if I don't know how many times i have to repeat my loop?**  
-Possibly you will have a condition that will stop your loop, loops structured this way are called **WHILE** loops, here is thier syntax:  
-
-```python
-while(x>10):
-  x+=1
-  print(x)
-```
-
-#### Strings
-
-#### Functions
-
-#### Recursion
-
-### Object Oriented programming
-
-#### What is an object?
-
-#### Object vs Instance
-
-#### Classes
-
-#### Inheritance
-
-#### Methods
-
-### Data structures and algorithms
-
-#### Linked lists
-
-#### Heaps, Stacks, Queues
-
-#### Trees (and Binary-trees)
-
-#### Sorting algorithms (Bubble-sort, merge-sort, insertion-sort)
-
-### Graphic User Interface
-
-### Frameworks
-
-## Links
-
-## Credits
-
-The logo has been created by [EscuelaDevRock](https://giphy.com/devrock)
-
-## Installation
-
-For the installation I recommand this tutorial, made from [ProgrammingKnowledge](https://www.youtube.com/@ProgrammingKnowledge), [link to the video](https://www.youtube.com/watch?v=ZcP0Du4KFSU)
+Traduit avec www.DeepL.com/Translator (version gratuite)
