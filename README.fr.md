@@ -36,15 +36,15 @@ Voici un index des sujets abordés (inspiré de <https://roadmap.sh/python/>) :
 
 - **Pourquoi?** Grâce à sa flexibilité, python peut être utilisé dans tous les domaines dont vous pouvez avoir besoin : des programmes les plus simples à la science des données et à l'apprentissage automatique.
 
-- Quoi ? Python est un langage de programmation né dans les années 90, mais qui n'est devenu populaire que plus tard. C'est un langage **interprété**, ce qui signifie qu'un interpréteur (intégré aux paquets d'installation de Python) "lira" ligne par ligne le code et l'exécutera. Il est très facile à comprendre et à utiliser et peut servir de base à l'apprentissage de tout autre langage de programmation.
+- **Quoi ?** Python est un langage de programmation né dans les années 90, mais qui n'est devenu populaire que plus tard. C'est un langage **interprété**, ce qui signifie qu'un interpréteur (intégré aux paquets d'installation de Python) "lira" ligne par ligne le code et l'exécutera. Il est très facile à comprendre et à utiliser et peut servir de base à l'apprentissage de tout autre langage de programmation.
 
 - Les programmes Python peuvent être développés à partir de l'IDE (Integrated Development Enviroment) intégré, IDLE, ou, comme dans ce cours, vous pouvez utiliser [Visual Studio Code] (https://code.visualstudio.com/).
 
-- Comment ? À la fin de ce cours, vous comprendrez ce qu'est la programmation et vous aurez un petit projet construit avec des guides étape par étape.
+- **Comment?** À la fin de ce cours, vous comprendrez ce qu'est la programmation et vous aurez un petit projet construit avec des guides étape par étape.
 
 #### Variables et types de données
 
- **Imaginons un tiroir (_notre variable_), sur lequel se trouve une étiquette (_le nom de la variable_). Dans ce tiroir, vous pouvez mettre des "choses" (_nos informations_) et, à moins que vous ne les retiriez du tiroir, elles y resteront.
+ **Qu'est ce qu'une variable ?** Imaginons un tiroir (_notre variable_), sur lequel se trouve une étiquette (_le nom de la variable_). Dans ce tiroir, vous pouvez mettre des "choses" (_nos informations_) et, à moins que vous ne les retiriez du tiroir, elles y resteront.
 
  Pour faire vrai, une **variable** est une zone d'espace dans notre ordinateur où nous pouvons stocker des informations utiles à notre programme.
 
@@ -79,4 +79,51 @@ Voici un index des sujets abordés (inspiré de <https://roadmap.sh/python/>) :
 > Notez que ce n'est pas une opération nécessaire, en fait Python peut utiliser des variables sans leur attribuer de valeur.
 > Python peut utiliser des variables sans leur attribuer un type de données spécifique.  Bien que
 > est nécessaire dans certains cas.
+
+#### Listes, Dictionnaires
+
+En utilisant une variable nous ne pouvons stocker qu'une seule information à la fois, il existe des structures en Python qui nous permettent de stocker plusieurs informations, ces structures sont appelées **listes**, voici la syntaxe pour en créer une
+
+```python
+list1=["item1", "item2", "item3"] #liste de chaînes de caractères
+intList=[1,2,3,4,5,6] #liste d'indices
+boolList=[True, False, False] #liste de bools
+mixed=["item",1,True] #les listes peuvent aussi contenir des types mixtes
+```  
+
+> Comme vous pouvez le voir, c'est comme créer une variable mais nous devons utiliser les
+> crochets **[]** pour définir les éléments en les séparant par une virgule.
+> **,**  
+
+Une liste a ces 3 caractéristiques :
+
+1. Ordonnée  
+ ↳ Les listes sont ordonnées, ce qui signifie que si vous ajoutez un élément, il sera ajouté à la fin de notre liste.
+2. Modifiables  
+ ↳ Cela signifie que nous pouvons **ajouter**, **changer**, **supprimer** des éléments de la liste après l'avoir créée.
+3. Duplicata  
+ ↳ Puisque les listes ont des index, nous pouvons avoir des valeurs dupliquées.  
+Afin d'accéder aux éléments d'une liste, nous pouvons utiliser cette syntaxe :
+
+```python
+list1[1] #accès à l'élément en position 1 (2)
+```
+
+> Notez que pour compter les positions des éléments, nous partons de **0**, donc le premier élément de la _intList_ sera ``intList[0]=>1``
+
+#### Casting
+
+Une opération fatale en programmation est le **casting**, qu'est-ce que cela signifie ? Cela signifie forcer un type de données dans un autre, laissez-moi vous expliquer...
+Imaginez que vous avez une division entre deux valeurs flottantes et que vous voulez seulement avoir la valeur entière du quotient, voici comment faire !
+
+ ```python
+ x=float(250)
+ y=float(256)
+ div=int(x/y)
+
+ ```
+
+> Notez que vous ne pouvez pas transformer un type de données en n'importe quel autre.
+> pour certains types de données, il faut des **fonctions** (_comme l'analyse syntaxique_).
+
 
