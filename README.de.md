@@ -14,41 +14,41 @@
 
 ## _Von den Grundlagen bis zur objektorientierten Programmierung und mehr, mit Beispielen_
 
-All the exercises will be available on:
+Alle Übungen sind verfügbar unter:
 
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-And all the code is written using:
+Der gesamte Code wird mit geschrieben:
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-This repository is created for people (students or self-taught) that want to know the basics of programming in ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue).
+Dieses Repository wurde für Personen (Studenten oder Autodidakten) erstellt, die die Grundlagen der Programmierung kennenlernen möchten ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue).
 
 ## Topics
 
-Here is an index of the topics covered (inspired by <https://roadmap.sh/python/>):
+Hier ist ein Index der behandelten Themen (inspiriert von <https://roadmap.sh/python/>):
 
 ### Grundlagen
 
 #### Einige Fragen zu Python
 
-- **Warum?** Because of its flexybility python can be used in every field you may need: from the simplest programs to data science and machine learning.
+- **Warum?** Aufgrund seiner Flexibilität kann Python in jedem Bereich eingesetzt werden, den Sie benötigen: von den einfachsten Programmen bis hin zu Data Science und maschinellem Lernen.
 
-- **Was?** Python is a programming language born in the '90s, but became popular only later. It's an **interpreted** language, which means that an intepreter (embedded with python installation packages) will "read" line by line the code and execute it, it's very easy to understand and use and can be the basis to learn any other programming language.
+- **Was?** Python ist eine Programmiersprache, die in den 90er Jahren geboren wurde, aber erst später populär wurde. Es ist eine **interpretierte** Sprache, was bedeutet, dass ein Interpreter (eingebettet in Python-Installationspakete) den Code Zeile für Zeile "liest" und ausführt, es ist sehr einfach zu verstehen und zu verwenden und kann die Grundlage sein, um andere zu lernen Programmiersprache.
 
-- **Woher?** Python programs can be developed from the embedded IDE (Integrated Development Enviroment) which is IDLE or, as in this course, you can use [Visual Studio Code](https://code.visualstudio.com/).
+- **Woher?** Python-Programme können aus der eingebetteten IDE (Integrated Development Enviroment) entwickelt werden, die IDLE ist oder, wie in diesem Kurs, von Ihnen verwendet werden kann [Visual Studio Code](https://code.visualstudio.com/).
 
-- **Wie?** By the end of this course you will have an understanding of what programming means and some little project built with step-by-step guides.
+- **Wie?** Am Ende dieses Kurses haben Sie ein Verständnis dafür, was Programmieren bedeutet, und ein kleines Projekt, das mit Schritt-für-Schritt-Anleitungen erstellt wurde.
 
 #### Variablen und Datentyp  
 
- **What is a variable?** Let's think it as a drawer (_our variable_), which has a label on it (_the variable name_), in this drawer you can put "things" (_our information_) and unless you remove the things from the drawer they will stay in it.
+ **Was ist eine Variable?** Stellen wir es uns als eine Schublade (_unsere Variable_) vor, auf der sich ein Etikett (_der Variablenname_) befindet. In diese Schublade können Sie "Dinge" (_unsere Informationen_) legen, und wenn Sie die Dinge nicht aus der Schublade entfernen, bleiben sie darin.
 
- Making it real a **variable** is a space area in our computer where we can store information useful to our program.
+ Realisieren ist eine **Variable**, ein Bereich in unserem Computer, in dem wir Informationen speichern können, die für unser Programm nützlich sind.
 
- In Python the syntax to create a variable is:
+ In Python lautet die Syntax zum Erstellen einer Variablen:
 
  ```python
 

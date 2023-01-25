@@ -8,13 +8,13 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/crippaemanuele/python/blob/master/README.md)
 [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/crippaemanuele/python/blob/master/README.it.md)
-[![es](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/crippaemanuele/python/blob/master/README.es.md)
+[![es](https://img.shields.io/badge/lang-es-green.svg)](https://github.com/crippaemanuele/python/blob/master/README.es.md)
 [![de](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/crippaemanuele/python/blob/master/README.de.md)
 [![fr](https://img.shields.io/badge/lang-fr-purple.svg)](https://github.com/crippaemanuele/python/blob/master/README.fr.md)
 
 ## _Von den Grundlagen bis zur objektorientierten Programmierung und mehr, mit Beispielen_
 
-All the exercises will be available on:
+Alle Übungen sind verfügbar unter:
 
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
