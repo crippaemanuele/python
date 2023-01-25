@@ -181,6 +181,10 @@ while(x>10):
 ```
 
 #### Strings
+Strings are another important data type, they are defined as a sequence of characters, you can use "" or '' to define strings
+```python
+word="this is a string"
+```
 
 #### Functions
 
