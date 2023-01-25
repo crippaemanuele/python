@@ -56,9 +56,9 @@ Hier ist ein Index der behandelten Themen (inspiriert von <https://roadmap.sh/py
 
  ```
 
- Our variables can be defined as some data-types. We can divide the data-types in two big categories:
+ Unsere Variablen können als einige Datentypen definiert werden. Wir können  die Datentypen in zwei große Kategorien einteilen:
 
- **Primitive.** These data-type are the fundamental ones they are **integer** (which defines all the integer numbers), **float** (which defines floating point numbers), **complex** (which defines complex numbers, with j as the imaginary part), **boolean** (which defines 0 [false] or 1 [true] values used for logical and boolean operations), **str** (which defines all the text types).
+ **Primitiv.** Diese Datentypen sind die grundlegenden, sie sind **Integer** (was alle ganzen Zahlen definiert), **float** (was Gleitkommazahlen definiert), **complex** (welche definiert komplexe Zahlen mit j als Imaginärteil), **boolean** (definiert 0 [falsch] oder 1 [wahr] Werte, die für logische und boolesche Operationen verwendet werden), **str** (definiert alle Texttypen ).
 
  Here a list of how to define every data-type seen above:
 
