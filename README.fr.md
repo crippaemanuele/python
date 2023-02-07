@@ -12,7 +12,7 @@
 [![de](https://img.shields.io/badge/lang-de-yellow.svg)](https://github.com/crippaemanuele/python/blob/master/README.de.md)
 [![fr](https://img.shields.io/badge/lang-fr-purple.svg)](https://github.com/crippaemanuele/python/blob/master/README.fr.md)
 
-## _Des bases à la programmation orientée objet et plus encore, avec des exemples_.
+## _Des bases à la programmation orientée objet et plus encore, avec des exemples_
 
 Tous les exercices seront disponibles sur :
 
@@ -38,7 +38,7 @@ Voici un index des sujets abordés (inspiré de <https://roadmap.sh/python/>) :
 
 - **Quoi ?** Python est un langage de programmation né dans les années 90, mais qui n'est devenu populaire que plus tard. C'est un langage **interprété**, ce qui signifie qu'un interpréteur (intégré aux paquets d'installation de Python) "lira" ligne par ligne le code et l'exécutera. Il est très facile à comprendre et à utiliser et peut servir de base à l'apprentissage de tout autre langage de programmation.
 
-- Les programmes Python peuvent être développés à partir de l'IDE (Integrated Development Enviroment) intégré, IDLE, ou, comme dans ce cours, vous pouvez utiliser [Visual Studio Code] (https://code.visualstudio.com/).
+- Les programmes Python peuvent être développés à partir de l'IDE (Integrated Development Enviroment) intégré, IDLE, ou, comme dans ce cours, vous pouvez utiliser [Visual Studio Code] (<https://code.visualstudio.com/>).
 
 - **Comment?** À la fin de ce cours, vous comprendrez ce qu'est la programmation et vous aurez un petit projet construit avec des guides étape par étape.
 
@@ -125,5 +125,3 @@ Imaginez que vous avez une division entre deux valeurs flottantes et que vous vo
 
 > Notez que vous ne pouvez pas transformer un type de données en n'importe quel autre.
 > pour certains types de données, il faut des **fonctions** (_comme l'analyse syntaxique_).
-
-

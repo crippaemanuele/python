@@ -2,7 +2,7 @@
  <img src="assets/python.gif" alt="Python Logo" width="75" height="75">  
 </p>
 
-# Corso Python  
+# Corso Python 🐍
 
 [![en](https://img.shields.io/badge/lang-en-white.svg)](https://github.com/crippaemanuele/python/blob/master/README.md)
 [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/crippaemanuele/python/blob/master/README.it.md)

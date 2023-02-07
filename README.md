@@ -1,10 +1,9 @@
 <p  align="center">
-
 <img  src="assets/python.gif"  alt="Python Logo"  width="75"  height="75">
-
 </p>
 
 # Python Course 🐍
+
 [![en](https://img.shields.io/badge/lang-en-white.svg)](https://github.com/crippaemanuele/python/blob/master/README.md)
 [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/crippaemanuele/python/blob/master/README.it.md)
 [![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/crippaemanuele/python/blob/master/README.es.md)
@@ -181,7 +180,9 @@ while(x>10):
 ```
 
 #### Strings
+
 Strings are another important data type, they are defined as a sequence of characters, you can use "" or '' to define strings
+
 ```python
 word="this is a string"
 ```
