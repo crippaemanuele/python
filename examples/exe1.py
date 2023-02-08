@@ -8,8 +8,6 @@
 
 #Exercise 1: "Scrivi un programma che determini il futuro valore di un tuo investimento di €1000 in base ad un tasso d'interesse del 2,5% con 5 anni d'investimento."
 from math import sqrt
-from warnings import warn
-
 
 print("ESERCIZIO 1")
 print("__________________________________________________________________________________________________________________________________________________")
